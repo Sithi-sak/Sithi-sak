@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Sithisak</h2>
 
+i use arch, btw.
+
 ###
 
 <div align="center">
@@ -101,4 +103,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake.svg" />
 </picture>
-###
