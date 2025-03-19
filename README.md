@@ -11,7 +11,7 @@ i use arch, btw.
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/Sithi-sak/Sithi-sak/blob/845f0e84ee7ba9d038e74d6d3f950a99d3a028e7/gifs/gigachad.gif"  />
 
 ###
 
