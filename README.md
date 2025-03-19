@@ -5,7 +5,7 @@ i use arch, btw.
 ### Profile Views
 counting of visitors to this page in this section started from July 30, 2023
 
-<img src="https://count.getloli.com/get/@:Sithi-sak?theme=gelbooru-h" alt=":name" />
+<img src="https://count.getloli.com/get/@:Sithi-sak?theme=ai-1" alt=":name" />
 
 
 
