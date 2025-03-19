@@ -100,7 +100,7 @@ i use arch, btw.
 <br clear="both">
 
 ### Profile Views
-<img src="https://count.getloli.com/get/@:Sithi-sak?theme=ai-1" alt=":name" />
+<img src="https://count.getloli.com/get/@:Sithi-sak?theme=rule34" alt=":name" />
 
 <!-- <img src="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/snake.svg" alt="Snake animation" /> -->
 <picture>
