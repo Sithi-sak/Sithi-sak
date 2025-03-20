@@ -2,9 +2,10 @@
 
 <p align="center">i use arch, btw.</p>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sithi-sak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" height="150" alt="languages graph"  />
+<!--   <img src="https://streak-stats.demolab.com?user=Sithi-sak&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  /> -->
 </div>
 
 <div align="left">
@@ -112,4 +113,9 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake.svg" />
   </picture>
+</div>
+
+<div align="center">
+  <h2>Github Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app?username=Sithi-sak&theme=nord&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="250" alt="trophy graph"  />
 </div>
