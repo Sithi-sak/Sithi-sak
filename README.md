@@ -1,19 +1,17 @@
 <h2 align="left">Hi 👋! My name is Sithisak</h2>
 
-i use arch, btw.
+<p align="center">i use arch, btw.</p>
 
-###
-
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sithi-sak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-###
+<div align="left">
+  <h2>Tech Stack</h2>
+</div>
 
 <img align="right" height="150" src="https://github.com/Sithi-sak/Sithi-sak/blob/845f0e84ee7ba9d038e74d6d3f950a99d3a028e7/gifs/gigachad.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -85,7 +83,11 @@ i use arch, btw.
   <img src="https://skillicons.dev/icons?i=neovim" height="30" alt="neovim logo"  />
 </div>
 
-###
+<br clear="both">
+
+<div align="left">
+  <h2>Socials</h2>
+</div>
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="youtube logo"  />
@@ -93,17 +95,21 @@ i use arch, btw.
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="26" alt="linkedin logo"  />
 </div>
 
-###
+<div align="left">
+  <h2>Contributions</h2>
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=E-commerce-App_2&show_owner=true&hide_border=true&theme=nord)](https://github.com/songKimvisal/E-commerce-App_2)
+</div>
 
-<br clear="both">
+<div align="left">
+  <h2>Profile Views</h2>
+  <img src="https://count.getloli.com/get/@:Sithi-sak?theme=rule34" alt=":name" />
+</div>
 
-### Profile Views
-
-<img src="https://count.getloli.com/get/@:Sithi-sak?theme=rule34" alt=":name" />
-
-<!-- <img src="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/snake.svg" alt="Snake animation" /> -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sithi-sak/Sithi-sak/output/github-snake.svg" />
+  </picture>
+</div>
