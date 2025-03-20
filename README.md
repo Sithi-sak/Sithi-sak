@@ -3,8 +3,8 @@
 <p align="center">i use arch, btw.</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sithi-sak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sithi-sak&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" height="150" alt="languages graph"  />
 <!--   <img src="https://streak-stats.demolab.com?user=Sithi-sak&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  /> -->
 </div>
 
@@ -101,7 +101,7 @@
 <div align="left">
   <h2>Contributions</h2>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=E-commerce-App_2&show_owner=true&hide_border=true&theme=nord)](https://github.com/songKimvisal/E-commerce-App_2)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=E-commerce-App_2&show_owner=true&hide_border=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/songKimvisal/E-commerce-App_2)
 </div>
 
 <div align="left">
