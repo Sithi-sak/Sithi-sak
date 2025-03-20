@@ -117,5 +117,5 @@
 
 <div align="center">
   <h2>Github Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app?username=Sithi-sak&theme=nord&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="250" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Sithi-sak&theme=nord&column=4&row=2&margin-w=8&margin-h=4&no-bg=false&no-frame=true&order=4" height="250" alt="trophy graph"  />
 </div>
