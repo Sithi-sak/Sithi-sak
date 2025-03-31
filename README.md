@@ -9,7 +9,7 @@
 </div>
 
 <div align="left">
-  <h2>Tech Stack</h2>
+  <h2>Random stuff</h2>
 </div>
 
 <img align="right" height="150" src="https://github.com/Sithi-sak/Sithi-sak/blob/845f0e84ee7ba9d038e74d6d3f950a99d3a028e7/gifs/gigachad.gif"  />
