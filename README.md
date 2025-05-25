@@ -18,7 +18,7 @@ Sithi-sak@github
   <img src="https://streak-stats.demolab.com?user=Sithi-sak&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
 
-### Currently learning...
+### ✍🏻 Currently learning...
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
@@ -27,7 +27,7 @@ Sithi-sak@github
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### 💻 Operating System
+### 🖥️ Operating System
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
