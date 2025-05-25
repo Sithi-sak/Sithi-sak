@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Sithisak</h2>
 
-![version :25.05.2025](https://img.shields.io/badge/version-25.05.2025-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=Sithi-Sak&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/Sithi-Sak?label=follow&style=social)](https://github.com/Sithi-Sak)&nbsp;
+![version :25.05.2025](https://img.shields.io/badge/version-25.05.2025-informational)
+![profile count](https://komarev.com/ghpvc/?username=Sithi-Sak&color=red)
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/Sithi-Sak?label=follow&style=social)](https://github.com/Sithi-Sak)
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
 ```
@@ -12,8 +12,8 @@ Sithi-sak@github
 🔎 Main interests in Web Development
 ```
 ### 💬 Get in touch
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithisak-leak/)](https://www.linkedin.com/in/sithisak-leak/) &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/sithi_sak)](https://t.me/sithi_sak) &nbsp;
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithisak-leak/)](https://www.linkedin.com/in/sithisak-leak/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/sithi_sak)](https://t.me/sithi_sak)
 
 ---
 
