@@ -13,7 +13,7 @@ Sithi-sak@github
 ```
 ### 💬 Get in touch
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithisak-leak/)](https://www.linkedin.com/in/sithisak-leak/) &nbsp;
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/sithi_sak)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/sithi_sak)](https://t.me/sithi_sak) &nbsp;
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&theme=nord" height="150" alt="stats graph"  />
