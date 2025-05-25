@@ -73,7 +73,7 @@ Sithi-sak@github
   <img src="https://count.getloli.com/get/@:Sithi-sak?theme=rule34" alt=":name" />
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&theme=nord" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Sithi-sak&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
