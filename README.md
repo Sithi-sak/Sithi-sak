@@ -15,11 +15,6 @@ Sithi-sak@github
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithisak-leak/)](https://www.linkedin.com/in/sithisak-leak/) &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/sithi_sak)](https://t.me/sithi_sak) &nbsp;
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&theme=nord" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sithi-sak&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
-</div>
-
 ---
 
 ### ✍🏻 Currently learning...
@@ -76,6 +71,11 @@ Sithi-sak@github
 <div align="center">
   <h2>Profile Views</h2>
   <img src="https://count.getloli.com/get/@:Sithi-sak?theme=rule34" alt=":name" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&theme=nord" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sithi-sak&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
