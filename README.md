@@ -1,9 +1,28 @@
-<h2 align="left">Hi 👋! My name is Sithisak</h2>
+<h2 align="left">Hi 👋! My name is 🧠 Sithisak</h2>
 
 ![version :25.05.2025](https://img.shields.io/badge/version-25.05.2025-informational) &nbsp;
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithisak-leak/)](https://www.linkedin.com/in/sithisak-leak/)
 ![profile count](https://komarev.com/ghpvc/?username=Sithi-Sak&color=red)&nbsp;
 [![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/Sithi-Sak?label=follow&style=social)](https://github.com/Sithi-Sak)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
+
+```csharp
+anordinaryusername@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: Artesia, CA
+Frameworks: React
+Languages: JavaScript, TypeScript,
+           HTML, CSS
+Learning: Node.js, Express, PostgreSQL,
+          Three.js, CPP
+Hobbies: Gardening, Cooking, Gaming
+Commits: 968
+Stars: 14
+Discord: RandomPotato#1377
+```
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&theme=nord" height="150" alt="stats graph"  />
