@@ -18,6 +18,10 @@ Sithi-sak@github
   <img src="https://streak-stats.demolab.com?user=Sithi-sak&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
 
+### Currently learning...
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
 ### 📚 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
