@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is 🧠 Sithisak</h2>
+<h2 align="left">Hi 👋! My name is Sithisak</h2>
 
 ![version :25.05.2025](https://img.shields.io/badge/version-25.05.2025-informational) &nbsp;
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithisak-leak/)](https://www.linkedin.com/in/sithisak-leak/) &nbsp;
