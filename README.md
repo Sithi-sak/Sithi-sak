@@ -38,12 +38,12 @@ Sithi-sak@github
 ![Fedora](https://img.shields.io/badge/Fedora-212121?style=for-the-badge&logo=fedora)
 
 ### ☁️ Clouds
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-212121?style=for-the-badge&logo=vercel)
 
 ### 💾 Databases
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-212121?style=for-the-badge&logo=firebase)
+![MySQL](https://img.shields.io/badge/mysql-212121?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/sqlite-212121?style=for-the-badge&logo=sqlite)
 
 ### 📚 Frameworks
 `TBA`
