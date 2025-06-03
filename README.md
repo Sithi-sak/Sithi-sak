@@ -19,18 +19,18 @@ Sithi-sak@github
 ---
 
 ### ✍🏻 Currently learning...
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-212121?style=for-the-badge&logo=vite)
+![React](https://img.shields.io/badge/react-212121?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-212121?style=for-the-badge&logo=tailwind-css)
+![DaisyUI](https://img.shields.io/badge/daisyui-212121?style=for-the-badge&logo=daisyui)
+![Express.js](https://img.shields.io/badge/express.js-212121?style=for-the-badge&logo=express)
+![NodeJS](https://img.shields.io/badge/node.js-212121?style=for-the-badge&logo=node.js)
+![Postgres](https://img.shields.io/badge/postgres-212121?style=for-the-badge&logo=postgresql)
 
 
 ### 📋 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-212121?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/css-212121?style=for-the-badge&logo=css)
+![CSS3](https://img.shields.io/badge/css3-212121?style=for-the-badge&logo=css3&logoColor=%231572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-212121?style=for-the-badge&logo=javascript)
 
 ### 🎛️ Operating System
@@ -39,9 +39,6 @@ Sithi-sak@github
 ![Arch](https://img.shields.io/badge/Arch%20Linux-212121?logo=arch-linux&style=for-the-badge)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-212121?style=for-the-badge&logo=Linux%20Mint)
 ![Fedora](https://img.shields.io/badge/Fedora-212121?style=for-the-badge&logo=fedora)
-
-### ☁️ Clouds
-![Vercel](https://img.shields.io/badge/vercel-212121?style=for-the-badge&logo=vercel)
 
 ### 💾 Databases
 ![Firebase](https://img.shields.io/badge/firebase-212121?style=for-the-badge&logo=firebase)
@@ -52,18 +49,19 @@ Sithi-sak@github
 `TBA`
 
 ### 🔧 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-212121?style=for-the-badge&logo=git)
+![Bash](https://img.shields.io/badge/bash-212121?style=for-the-badge&logo=gnu-bash)
 
 ### 💻 Editors/IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-212121?style=for-the-badge&logo=visual-studio-code)
+![Vim](https://img.shields.io/badge/VIM-212121?style=for-the-badge&logo=vim)
+![Neovim](https://img.shields.io/badge/NeoVim-212121?&style=for-the-badge&logo=neovim)
+![Nano](https://img.shields.io/badge/Nano-212121?&style=for-the-badge)
 
 ### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-212121?style=for-the-badge&logo=figma)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-212121?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-212121?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 
 ---
 
