@@ -19,23 +19,23 @@ Sithi-sak@github
 ---
 
 ### ✍🏻 Currently learning...
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express](https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-212121?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/vite-212121?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-212121?style=for-the-badge&logo=tailwind-css)
+![Express](https://img.shields.io/badge/express-212121?style=for-the-badge&logo=express)
+![Node.js](https://img.shields.io/badge/node.js-212121?style=for-the-badge&logo=node.js)
 
 ### 📋 Languages
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-212121?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-212121?style=for-the-badge&logo=css)
+![JavaScript](https://img.shields.io/badge/javascript-212121?style=for-the-badge&logo=javascript)
 
 ### 🎛️ Operating System
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-212121?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-212121?style=for-the-badge&logo=linux)
+![Arch](https://img.shields.io/badge/Arch%20Linux-212121?logo=arch-linux&style=for-the-badge)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-212121?style=for-the-badge&logo=Linux%20Mint)
+![Fedora](https://img.shields.io/badge/Fedora-212121?style=for-the-badge&logo=fedora)
 
 ### ☁️ Clouds
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
