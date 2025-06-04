@@ -41,7 +41,6 @@ Sithi-sak@github
 ![Fedora](https://img.shields.io/badge/Fedora-212121?style=for-the-badge&logo=fedora)
 
 ### 💾 Databases
-![Firebase](https://img.shields.io/badge/firebase-212121?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-212121?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/sqlite-212121?style=for-the-badge&logo=sqlite)
 
