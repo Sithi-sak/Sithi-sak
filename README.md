@@ -68,7 +68,7 @@ Sithi-sak@github
 <div align="left">
   <h2>Contributions</h2>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=AngkorWear&show_owner=true&hide_border=true&theme=nord)](https://github.com/songKimvisal/AngkorWear)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=songKimvisal&repo=AngkorWear&show_owner=true&border_color=212121&theme=github_dark)](https://github.com/songKimvisal/AngkorWear)
 </div>
 
 <div align="center">
@@ -77,8 +77,8 @@ Sithi-sak@github
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=true&theme=nord" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sithi-sak&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&border_color=212121&theme=github_dark" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sithi-sak&locale=en&mode=daily&theme=github_dark&border_color=212121&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
