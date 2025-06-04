@@ -19,8 +19,8 @@ Sithi-sak@github
 ---
 
 ### ✍🏻 Currently learning...
-![Vite](https://img.shields.io/badge/vite-212121?style=for-the-badge&logo=vite)
-![React](https://img.shields.io/badge/react-212121?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/vite-e8e8e8?style=for-the-badge&logo=vite)
+![React](https://img.shields.io/badge/react-e8e8e8?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-212121?style=for-the-badge&logo=tailwind-css)
 ![DaisyUI](https://img.shields.io/badge/daisyui-212121?style=for-the-badge&logo=daisyui)
 ![Express.js](https://img.shields.io/badge/express.js-212121?style=for-the-badge&logo=express)
