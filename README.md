@@ -12,15 +12,15 @@ Sithi-sak@github
 🔎 Main interests in Web Development
 ```
 ### 💬 Get in touch
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithisak-leak/)](https://www.linkedin.com/in/sithisak-leak/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/sithi_sak)](https://t.me/sithi_sak)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sithisakleak001@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=f5f3f5&link=https://www.linkedin.com/in/sithisak-leak/)](https://www.linkedin.com/in/sithisak-leak/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=f5f3f5&link=https://t.me/sithi_sak)](https://t.me/sithi_sak)
+[![Gmail](https://img.shields.io/badge/Gmail-d7263d?style=for-the-badge&logo=gmail&logoColor=f5f3f5)](mailto:sithisakleak001@gmail.com)
 
 ---
 
 ### ✍🏻 Currently learning...
-![Vite](https://img.shields.io/badge/vite-e8e8e8?style=for-the-badge&logo=vite)
-![React](https://img.shields.io/badge/react-e8e8e8?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/vite-212121?style=for-the-badge&logo=vite)
+![React](https://img.shields.io/badge/react-212121?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-212121?style=for-the-badge&logo=tailwind-css)
 ![DaisyUI](https://img.shields.io/badge/daisyui-212121?style=for-the-badge&logo=daisyui)
 ![Express.js](https://img.shields.io/badge/express.js-212121?style=for-the-badge&logo=express)
@@ -67,7 +67,7 @@ Sithi-sak@github
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sithi-sak&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&border_color=212121&theme=github_dark" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Sithi-sak&locale=en&mode=daily&theme=github_dark&border_color=212121&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Sithi-sak&locale=en&mode=daily&border_color=212121&theme=github_dark&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
 
 <div align="center">
