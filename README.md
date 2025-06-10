@@ -31,7 +31,7 @@ Sithi-sak@github
 
 ### 📋 Languages
 ![HTML5](https://img.shields.io/badge/HTML5-212121?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/css3-212121?style=for-the-badge&logo=css3&logoColor=%231572B6)
+![CSS](https://img.shields.io/badge/css-212121?style=for-the-badge&logo=css&logoColor=%231572B6)
 ![JavaScript](https://img.shields.io/badge/javascript-212121?style=for-the-badge&logo=javascript)
 
 ### 🎛️ Operating System
