@@ -24,12 +24,8 @@ Sithi-sak@github
 ![Next JS](https://img.shields.io/badge/Next-212121?style=for-the-badge&logo=next.js)
 ![React](https://img.shields.io/badge/react-212121?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-212121?style=for-the-badge&logo=tailwind-css)
-![Express.js](https://img.shields.io/badge/express.js-212121?style=for-the-badge&logo=express)
-![NodeJS](https://img.shields.io/badge/node.js-212121?style=for-the-badge&logo=node.js)
 ![Postgres](https://img.shields.io/badge/postgres-212121?style=for-the-badge&logo=postgresql)
-![AWS](https://img.shields.io/badge/AWS-212121?style=for-the-badge&logo=amazon-aws)
 ![Prisma](https://img.shields.io/badge/Prisma-212121?style=for-the-badge&logo=Prisma)
-![Redux](https://img.shields.io/badge/redux-212121?style=for-the-badge&logo=redux)
 
 
 ### 📋 Languages
