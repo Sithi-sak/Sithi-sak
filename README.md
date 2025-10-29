@@ -20,8 +20,7 @@ Sithi-sak@github
 ---
 
 ### ✍🏻 Currently learning...
-![C#](https://img.shields.io/badge/c%23-212121?style=for-the-badge&logo=csharp)
-![Next JS](https://img.shields.io/badge/Next-212121?style=for-the-badge&logo=next.js)
+![Rust](https://img.shields.io/badge/rust-212121.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/react-212121?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-212121?style=for-the-badge&logo=tailwind-css)
 ![Postgres](https://img.shields.io/badge/postgres-212121?style=for-the-badge&logo=postgresql)
