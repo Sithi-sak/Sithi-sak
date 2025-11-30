@@ -20,8 +20,8 @@ Sithi-sak@github
 ---
 
 ### ✍🏻 Currently learning...
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-212121.svg?style=for-the-badge&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/react-212121?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-212121?style=for-the-badge&logo=tailwind-css)
 ![Postgres](https://img.shields.io/badge/postgres-212121?style=for-the-badge&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/Prisma-212121?style=for-the-badge&logo=Prisma)
