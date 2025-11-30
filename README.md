@@ -21,39 +21,39 @@ Sithi-sak@github
 
 ### ✍🏻 Currently learning...
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-212121.svg?style=for-the-badge&logo=rust&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-212121?style=for-the-badge&logo=tailwind-css)
-![Postgres](https://img.shields.io/badge/postgres-212121?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-212121?style=for-the-badge&logo=Prisma)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 
 ### 📋 Languages
-![HTML5](https://img.shields.io/badge/HTML5-212121?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/css-212121?style=for-the-badge&logo=css&logoColor=%231572B6)
-![JavaScript](https://img.shields.io/badge/javascript-212121?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### 🎛️ Operating System
-![Windows](https://img.shields.io/badge/Windows-212121?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-212121?style=for-the-badge&logo=linux)
-![Arch](https://img.shields.io/badge/Arch%20Linux-212121?logo=arch-linux&style=for-the-badge)
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-212121?style=for-the-badge&logo=Linux%20Mint)
-![Fedora](https://img.shields.io/badge/Fedora-212121?style=for-the-badge&logo=fedora)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 
 ### 💾 Databases
-![MySQL](https://img.shields.io/badge/mysql-212121?style=for-the-badge&logo=mysql)
-![SQLite](https://img.shields.io/badge/sqlite-212121?style=for-the-badge&logo=sqlite)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 📚 Frameworks
 `TBA`
 
 ### 🔧 Tools
-![Git](https://img.shields.io/badge/git-212121?style=for-the-badge&logo=git)
-![Bash](https://img.shields.io/badge/bash-212121?style=for-the-badge&logo=gnu-bash)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 💻 Editors/IDEs
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-212121?style=for-the-badge&logo=visual-studio-code)
-![Vim](https://img.shields.io/badge/VIM-212121?style=for-the-badge&logo=vim)
-![Neovim](https://img.shields.io/badge/NeoVim-212121?&style=for-the-badge&logo=neovim)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Nano](https://img.shields.io/badge/Nano-212121?&style=for-the-badge)
 
 ### 🎨 Design Tools
