@@ -49,6 +49,7 @@ Sithi-sak@github
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Nano](https://img.shields.io/badge/Nano-212121?&style=for-the-badge)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/figma-212121?style=for-the-badge&logo=figma)
